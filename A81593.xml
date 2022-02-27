@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The practical method of conveyance of letters, returns of answers, replies, &amp;c. the same day within the weekly Bills of Mortality; commonly called, the penny-post Published for plain direction to all persons, for the better maintaince of mutual correspondence, being the life of trade and business.</title>
+            <author>Dockwra, William, d. 1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81593</idno>
+            <idno type="STC">Wing D1782A</idno>
+            <idno type="STC">ESTC R231941</idno>
+            <idno type="EEBO-CITATION">99897638</idno>
+            <idno type="PROQUEST">99897638</idno>
+            <idno type="VID">170884</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170884)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2512:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The practical method of conveyance of letters, returns of answers, replies, &amp;c. the same day within the weekly Bills of Mortality; commonly called, the penny-post Published for plain direction to all persons, for the better maintaince of mutual correspondence, being the life of trade and business.</title>
+                  <author>Dockwra, William, d. 1716.</author>
+               </titleStmt>
+               <extent>[4] p   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>At end of text: To Mr. William Dockwra and the rest of the undertakers, at the Penny-Post-House in Lime-street.</note>
+                  <note>Reproduction of original in the Guildhall Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Postal service --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:170884:1"/>
+            <head>THE Practical Method Of Conveyance of LETTERS, Returns of Anſwers, Replies, <hi>&amp;c.</hi> the ſame day within the Weekly Bills of Mortality; Commonly called, The PENNY-POST.</head>
+            <head type="sub">Publiſhed for Plain Direction to all Perſons, for the better Maintainance of Mutual Correſpondence, being the Life of Trade and Buſineſs.</head>
+            <figure>
+               <p>Mor. 8</p>
+            </figure>
+            <figure>
+               <p>PENNY POST PAID</p>
+               <p>L</p>
+            </figure>
+            <figure>
+               <p>A f. 4</p>
+            </figure>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas <hi>William Dockwra</hi> of <hi>London</hi> Merchant, and his <hi>Partners,</hi> have contrived and carried on for above two years paſt, the Publick and Uſeful Undertaking above-mentioned; by which means a very frequent, ſafe, cheap, and mutual Correſpon<g ref="char:EOLhyphen"/>dence is maintained, to the great benefit of Trade and Commerce, which is of general Con<g ref="char:EOLhyphen"/>cernment, but of great Expence to the Undertakers to this day.</p>
+            <p>Yet have they met with many Oppoſitions and Diſcouragements, and have been long vexed with unreaſonable and very expenſive Law-ſuits, and have lately had new Actions of Ten thouſand pounds a-piece brought againſt them by way of Penalties ſaid to be forfeited by the Statutes of 12 <hi>&amp;</hi> 15 <hi>Car. II.</hi> that erects <hi>The General Poſt-Office,</hi> and gives to his <hi>Royal Highneſs</hi> that Princely Revenue; alledging that the <hi>Penny-Poſt</hi> is a prejudice to his <hi>General Poſt-Office,</hi> when all Mankind (that are ingenuous and impartial) are convinced that 'tis as well a great Improvement thereof, as 'tis a manifeſt good to all the Inhabitants of <hi>London</hi> and places adjacent: And thoſe Acts of Parliament were intended for the benefit of the Subject, in providing them all poſſible conveniency in their Trade and Commerce; which Publick Good, that this Invention of the <hi>Penny-Poſt</hi> does greatly promote, is moſt evident, by improving Mutual Correſpondence, the Soul of Trade and Buſineſs, which was the chief Deſign and true intent of the Law-makers. And therefore it cannot be imagined ſo great and generous a Prince as His Royal Highneſs, ſhould be pleaſed with the ſuppreſ<g ref="char:EOLhyphen"/>ſing this great Benefit, to the people; which will alſo tend to the ruin of the <hi>Undertakers,</hi> who have already expended ſome Thouſands of pounds more than ever they reecived, beſides their great pains and loſs of ſo much time in the Managing this Publick Concern.</p>
+            <p>Now foraſmuch as there is a Trial at Bar appointed this <hi>Michaelmaſs Term</hi> to decide this Cauſe, the <hi>Undertakers</hi> cannot doubt of being delivered from the hardſhips they groan under, when the true Merits of the Cauſe ſhall be throughly under<g ref="char:EOLhyphen"/>ſtood on a fair Hearing, by an honeſt underſtanding Engliſh Jury, and by the learned, upright and honourable Judges. And they hope that God in his providence will ſo bleſs the good intentions of the <hi>Undertakers</hi> with the peaceable Enjoyment of their own Chargeable Invention, that they may find encouragement for their real Service to the Publick: <hi>Innocency</hi> and <hi>Integrity</hi> being naturally confident of a <hi>Reward.</hi>
+            </p>
+            <p>And therefore the ſubſequent lines (reducing the <hi>Penny-Poſt</hi> to practice) are publiſhed for the good of all: <hi>Viz.</hi>
+            </p>
+            <p n="1">1. That the <hi>Penny-Poſt</hi> conveys <hi>Letters,</hi> and <hi>Parcels</hi> that exceed not a Pound weight, or ten Pounds in value, for a Penny a piece, from any one place to another often-times in the ſame day, in <hi>London, Weſtminſter, Southwark, Ratliff,</hi> and the contiguous Buildings of the weekly Bills of Mortality; every day except <hi>Sundays, Chriſtmaſs-day</hi> and the three days next following, <hi>Munday</hi> and <hi>Tueſday</hi> in <hi>Eaſter-week,</hi> the like in <hi>Whitſun-week,</hi> the 30th. of <hi>January,</hi> and the 2. of <hi>September.</hi> But beyond the weekly Bills of Mortality, it doth not go, nor never did.</p>
+            <p n="2">2. For the conveniency of all, the <hi>Undertakers</hi> have <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pointed ſome hundreds of <hi>Shop-keepers</hi> and noted <hi>Coffee-houſes</hi> about Town, called <hi>Penny-poſt-houſes,</hi> for receipt of ſuch Letters as any one would ſend, where Meſſengers appointed for that purpoſe call hourly to fetch away whatſoever is there left. But the <hi>Undertakers</hi> pretend not to ſuch quick di<g ref="char:EOLhyphen"/>ſpatch in their carriage of Letters, as may be made by a ſpecial Meſſenger ſent on purpoſe (as many by miſtake have ſup<g ref="char:EOLhyphen"/>poſed) their Methods of Conveyance not permitting a quicker diſpatch from one end of the Town to the other, than three or four hours, and at a ſhorter diſtance two or three hours, accounting from the time that the Letter i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> firſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> into the
+<pb facs="tcp:170884:2"/>
+               <hi>Penny-poſt-houſe.</hi> But obſerve, that a Letter left juſt before the Meſſenger calls, will be delivered as directed, an hour ſoon<g ref="char:EOLhyphen"/>er than one left juſt after he has called; for that muſt lie an hour longer before 'tis fetched away. Letters left at any <hi>Penny-poſt-houſe,</hi> within the contiguous Buildings, before 6 in the Evening, will certainly be conveyed to all places in Town the ſame Night; and thoſe left before 7 in the Evening, will be conveyed to moſt places alſo: but for ſuch as are left betwixt 7 and 8 at Night, altho many of them may be conveyed likewiſe as directed the ſame Night, yet ſome of them will lie in the hands of the <hi>Penny-Poſt,</hi> as alſo all that are left after 8, and not be delivered till next Morning: for tho they may be fetched away from the Receiving-houſe, by the Meſſenger that goes betwixt 9 and 10 on Poſt-nights to fetch the <hi>General-Poſt</hi> Letters; yet will they lie in the hands of the <hi>Penny-Poſt</hi> all Night.</p>
+            <p n="3">3. A <hi>Penny</hi> (ready changed) muſt be left with every <hi>Letter</hi> or <hi>Parcel,</hi> when put into the <hi>Penny-Poſt-houſe,</hi> and nothing will be demanded or taken, if offered, by the Meſſenger that delivers it, <hi>Penny-Poſt paid</hi> being ſtampt on every <hi>Letter</hi> and <hi>Parcel,</hi> according to the Triangular Form on the front of this Sheet.</p>
+            <p n="4">4. Altho the <hi>Undertakers</hi> do warrant the ſafe Conveyance of any <hi>Parcel</hi> that exceeds not Ten Pounds in value, yet will they not be obliged to give Satisfaction for any things that are incloſed, unleſs well wrapp'd up either in ſtrong Paper, or otherwiſe ſecurely incloſed, and faſt ſealed up with hard Wax; under the Impreſſion of ſome remarkable Seal (not a Thimble, a Piece of Money, <hi>&amp;c.</hi>) in ſuch ſort, that what is incloſed therein may not drop out, no nor ſo much as be expoſed to view, without breaking open either the Seal or Wrapper; and if wrapt up in Paper and ty'd, the ends be ſealed as well as the middle, without which ſuch parcels are ſeldom ſecure: becauſe otherwiſe, either the perſon that brings it to the <hi>Penny-Poſt-houſe,</hi> or the perſon to whom the <hi>Penny-Poſt</hi> Meſſenger delivers it in the abſence of the Party whom 'tis for, may open the <hi>Parcel</hi> and take out part of what is incloſed, wrapping it up again, and ſo deliver it, and yet the <hi>Penny-Poſt</hi> be chargeable therewith; and the true Value alſo indorſed in Words at length, and not in Figures. Nor will they make Satisfaction for the breaking of Glaſs-bottles, or other brittle things in the Carriage, or for wetting or ſpoiling any other thing that is ſubject to Damage in the Conveyance; it being unreaſonable, that for a <hi>Penny</hi> a-piece they ſhould convey things ſo troubleſom and hazardous in the Carriage, and yet be liable to pay the Damage of breaking or ſpoiling into the Bargain: but if ſuch things are ſent, they ſhall be conveyed as free from Damage, as the crouding them in a Bag a<g ref="char:EOLhyphen"/>mongſt <hi>Letters</hi> and other <hi>Parcels</hi> can well admit. But altho the <hi>Undertakers</hi> have publiſhed, that they will carry <hi>Parcels</hi> not exceeding a Pound Weight; yet 'twas never intended by them to convey <hi>Parcels</hi> of very great Bulk (tho under a Pound Weight) ſuch as great Band-boxes, and other bulky Luggage which is daily impoſed upon them; it being impractical for the <hi>Penny-Poſt</hi> to convey ſuch <hi>Parcels,</hi> a few whereof make a Burthen.</p>
+            <p n="5">5. For the convenience of ſuch as ſend <hi>Letters</hi> to the <hi>Poſt-Office-general</hi> in <hi>Lombard-ſtreet,</hi> the Meſſengers do call at the <hi>Penny-Poſt-houſes</hi> betwixt 9 and 10 within the contiguous Buildings every Poſt-night, to fetch away the Poſt Letters. And whereas miſcarriages have many times hapned, of ſuch Letters as have been intruſted to Bell-men, and other obſcure per<g ref="char:EOLhyphen"/>ſons (not imploved by the <hi>General-Poſt</hi>) to convey to the Poſt-office in <hi>Lombard-ſtreet,</hi> and conſequently the perſons con<g ref="char:EOLhyphen"/>cerned have met with great diſappointments: all <hi>Letters</hi> conveyed thither by the <hi>Penny-Poſt,</hi> are Regiſtred at the chief Office in <hi>Lime-ſtreet,</hi> the Clerks that ſo regiſters and conveys them being ready to atteſt upon Oath, the ſafe delivery of every Letter. But ſuch as come incloſed in C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vers, and directed to the <hi>Poſt-office-general</hi> in <hi>Lombard-ſtreet,</hi> cannot be Regiſtred, becauſe incloſed, and conſequently the Delivery of them cannot be atteſted on Oath.<note place="margin">☞ <hi>Note,</hi> That the <hi>Undertakers,</hi> to ſupport this uſeful Deſign of conveying <hi>Letters</hi> and <hi>Parcels</hi> for a Penny a piece, being out of Purſe ſome thouſands of Pounds to accommodate the Publick; and the Benefit of Town-Letters coming ſhort of a Re<g ref="char:EOLhyphen"/>imburſement, much more of a Recompence for their Pains, Trouble and Hazard: 'Tis hoped, that all perſons who pay for carrying their Letters to <hi>Lombard-ſtreet,</hi> will ſend them thither by the <hi>Penny-Poſt,</hi> the better to inable the <hi>Undertakers</hi> to uphold and continue on foot, this chargeable Deſign of ſending <hi>Letters</hi> to and fro here in Town. And ſuch as do ſend money to pay for the Poſtage of Letters into the Countrey, are deſired to indorſe how much they ſend.</note>
+            </p>
+            <div type="part">
+               <head>As 'tis the Pravity of Man's Corrupt Nature to find fault, ſo has the <hi>Penny-Poſt</hi> but too too much been made the ſubject matter thereof; cauſeleſs Com<g ref="char:EOLhyphen"/>plaints being frequently made, to the prejudice of the Undertaking.</head>
+               <p>
+                  <hi>Complaints are of Two Kinds.</hi>
+               </p>
+               <list>
+                  <item>1. Delays of Letters, lying long before they come to hand.</item>
+                  <item>2. Miſcarriage of them, never coming to hand at all.</item>
+               </list>
+               <p>Delays of Letters happen,
+<list>
+                     <item>1. Either before they are put into the hands of the <hi>Penny-Poſt.</hi>
+                     </item>
+                     <item>2. Whilſt in the hands of the <hi>Penny-Poſt.</hi> Or,</item>
+                     <item>3. After the <hi>Penny-Poſt</hi> has delivered them.</item>
+                  </list>
+               </p>
+               <p n="1">1. By ſending them to the <hi>Penny-Poſt-houſe</hi> by the hand of a Servant, Child, or ſome other heedleſs perſon, who care<g ref="char:EOLhyphen"/>leſly delay the Letters ſome hours, or it may be days before they are put in. Alſo, oft-times Porters, who are ſent as ſpecial Meſſengers with <hi>Letters,</hi> having through drunkenneſs or other hinderances delayed them ſo long in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, that they are aſhamed to deliver them themſelves; ſometimes on purpoſe to ſcandalize the Undertaking (to which they have ſo great a prejudice) do de<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in <hi>Letters</hi> long in hand, and then put them into the <hi>Penny-Poſt.</hi>
+               </p>
+               <pb facs="tcp:170884:2" rendition="simple:additions"/>
+               <p n="2">2. Delays are occaſioned very often, by means of bad <hi>Directions;</hi> ſometimes directing to a Street, of which there are divers of the ſame name, without mentioning in what part of the Town the Street lies; and conſequently, the <hi>Letter</hi> toſt up and down from one part of the Town to the other, before the right Street be found out. Sometimes directing to one Sign for another, nay ſometimes directing to one Street for another, and very often the <hi>Direction</hi> ſo bad, as not poſſible to be read or underſtood; ſometimes directing to ſuch a perſon in ſuch a Street, without mentioning Chriſtian-Name, Trade, Sign, or in what part of the Street, and whether Houſe-keeper, Lodger or Servant; by which means, there being divers of one Name in a Street, and no diſtinction which of them the <hi>Letter</hi> is for: 'tis delivered, it may be, into all their hands one after another, and broke open to boot, without which neither of them could tell whether 'twas for them or not. Many <hi>Letters</hi> having thus been opened, and none of thoſe into whoſe hands they come, owning them, they are in courſe returned to the <hi>Penny-poſt-houſe:</hi> and many others through careleſs and ſlight ſealing, in the very carriage among other <hi>Letters</hi> in the Bag, have opened of themſelves; from whence, the Adverſaries of the <hi>Penny-Poſt</hi> have taken occaſion to ſpread a Scandal on the management thereof, in that very particular, wherein the <hi>Undertakers</hi> are moſt ſacredly careful to diſcharge the Truſt repoſed in them, as being ſenſible 'tis highly their intereſt ſo to do.</p>
+               <p n="3">3. Delayes often happen, after the <hi>Penny-Poſt</hi> Meſſengers have made a true delivery: for the perſon to whom the <hi>Letter</hi> is directed being not in the way when the Meſſenger comes with it, 'tis left with ſome one of the Houſe, who too too often, through careleſs neglect, layes the <hi>Letter</hi> by, and ſo forgets to deliver it till it may be ſome hours, or ſometimes a day or more after 'tis ſo left; and then to excuſe their own neglect, pretend that 'tis but juſt then come to hand, where<g ref="char:EOLhyphen"/>upon the <hi>Penny-Poſt</hi> is inſtantly clamoured againſt, as the Author of the delay. This being ſo great and growing a miſ<g ref="char:EOLhyphen"/>chief, the <hi>Undertakers</hi> thought it worth their while to be at the charge of detecting it, the better to diſtinguiſh theſe Neglects, from thoſe of their own Meſſengers. To which end, the hour of the day at which the <hi>Letter</hi> is ſent out for de<g ref="char:EOLhyphen"/>livery, is ſtampt on the back-ſide thereof, <hi>Mor.</hi> for Morning, <hi>Af.</hi> for Afternoon in the form of the Stamps on the Title Page of this Paper; whereby may readily be diſcovered, at or very near what time of the day the <hi>Penny-Poſt</hi> Meſſenger brought it. For if he performs his duty as he ought, the <hi>Letter</hi> will for the moſt part be delivered within half an hour or an hour, but never exceeds an hour and a half after 'tis ſo ſtampt.</p>
+               <p>Moreover, if any Parcels are put into the <hi>Penny-Poſt,</hi> and not very faſt made up, and ſealed with ſome remarkable Im<g ref="char:EOLhyphen"/>preſſion for ſecurity; they will be left at the <hi>Penny-Poſt-houſe</hi> ſome dayes, before fetcht away, purpoſely to oblige all that ſend ſuch things for the future, to incloſe them as they ought to be.</p>
+               <p>Miſcarriages alſo happen, either,
+<list>
+                     <item>1. before the <hi>Letters</hi> are put into the hands of the <hi>Penny-Poſt.</hi>
+                     </item>
+                     <item>2. Whilſt in the hands of the <hi>Penny-Poſt.</hi> Or,</item>
+                     <item>3. after the delivery of them.</item>
+                  </list>
+               </p>
+               <p n="1">1. By ſending the <hi>Letter</hi> to the <hi>Penny-Poſt-houſe</hi> by ſome brutiſh Servant, or elſe by ſome ſilly Child, who for the ſake of the Farthings, deſtroy the <hi>Letter.</hi>
+               </p>
+               <p n="2">2. The miſcarriages of <hi>Letters</hi> ſometimes happen whilſt in the hands of the <hi>Penny-Poſt;</hi> yet never by their neglect, but either by means of ſuch ill-written Superſcriptions as are not to be read, or ſuch imperfect Directions by which the per<g ref="char:EOLhyphen"/>ſon is not to be found, or elſe the Party dead, or gone not known whither, and no body will take it in; and not ſeldom the perſon to whom 'tis directed, knowing (by the hand) that it comes from ſome one he cares not to hear from, will not receive it from the hands of the <hi>Penny-P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt</hi> Meſſenger, but rejects it. In all ſuch caſes, the <hi>Letters</hi> are ever returned to the chief <hi>Penny-Poſt-houſe</hi> in <hi>Lime-ſtreet,</hi> where the Parties concerned may find them. And for the more clear conviction of thoſe that write ſuch very bad Directions, many Hundreds of ſuch <hi>Letters</hi> lie at the ſaid chief <hi>Penny-Poſt-houſe,</hi> in <hi>Lime-ſtreet,</hi> as ſtanding Records, teſtifying that the Writers of thoſe <hi>Letters,</hi> and not the <hi>Penny-Poſt,</hi> are only chargeable with the Miſcarriages of them, it being impoſſible to deliver them.</p>
+               <p n="3">3. Miſcarriages ſometimes happen by means of ſome careleſs Servant, or other negligent perſon, who in the abſence of the Party whom the <hi>Letter</hi> is for, receiving it from the hands of the <hi>Penny-Poſt</hi> Meſſenger, laies it by, and quite for<g ref="char:EOLhyphen"/>gets the <hi>Letter</hi> or the place where 'twas laid, and ſo it is loſt; or elſe, if after it has lain by a day or two, it be recalled to mind, yet this negligent perſon being aſhamed (after ſo long a delay) to produce it, commits a ſecond evil to prevent a detection of the firſt, and ſo deſtroys it.</p>
+               <p>
+                  <hi>Letters,</hi> tho really delivered, are yet ſometimes ſaid to miſcarry, becauſe no Anſwers are returned. But the reaſon why Anſwers come not, are manifold:
+<list>
+                     <item>1. It very often happens, that the Party written to will not take the trouble of writing an Anſwer, tho the Party who ſent the Letter expects it.</item>
+                     <item>2. When a <hi>Letter</hi> imports a Dunn for Money, and the perſon ſo indebted either not able or willing to pay, not only returns no Anſwer, but when afterwards charged therewith, even denies the very receipt of ſuch <hi>Letter,</hi> as has been often detected for juſtification of the <hi>Penny-Poſt:</hi> Or when a <hi>Letter</hi> is ſent to require any thing to be done, that the perſon ſo ſent to, cannot or will not perform, and yet in prudence not ab<g ref="char:EOLhyphen"/>ſolutely deny the doing of it, either pretends the <hi>Leter</hi> came too late, or elſe confidently diſowns the receipt of any ſuch at all, tho in truth he had it in due time.</item>
+                  </list> And thus diſingenuouſly do too too many traduce the <hi>Penny-Poſt</hi> with pretended De<g ref="char:EOLhyphen"/>lays and Miſcarriages, only to cloak thir own ill Principles and Practices.</p>
+               <p>Notwithſtanding Delays and Miſcarriages are thus occaſioned, yet is the <hi>Penny-Poſt</hi> preſently cenſured, as the Author of them, to the great detriment of the Undertaking: which to prevent, 'tis deſired that all who find themſelves ſo diſ<g ref="char:EOLhyphen"/>appointed in their Correſpondencies, would aſwell out of juſtice to the Undertakers, as for their own ſatisfaction, firſt examine well whether their <hi>Letters</hi> were not falſe dated, or the <hi>Superſcriptions</hi> not to be read, or elſe the <hi>Directions</hi> faulty. Moreover, whether there was no neglect in the perſon that carried them to the <hi>Penny-Poſt-houſe,</hi> or in the perſon to whom the <hi>Penny-Poſt-meſſenger</hi> delivered them; or whether the Party to whom directed, might not out of deſign diſown the receipt: and if after all it appear, that none of them are in the fault, then, and not before, ought the <hi>Penny-Poſt</hi> to be <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <pb facs="tcp:170884:3" rendition="simple:additions"/>
+               <p>And thus, upon a ſtrict enquiry, will the Clamours that are daily made of the Delays and Miſcarriages of the <hi>Penny-Poſt,</hi> be found to be without any juſt ground. Nor indeed is it the intereſt of any one that finds himſelf accommodated by the <hi>Penny-Poſt,</hi> to permit a Complaint of Delay or Miſcarriage to reach the ear of any other than the Parties concerned, or the <hi>Undertakers,</hi> in order to detect and redreſs it. For, ſince the Undertaking muſt either ſtand or fall, by the good or ill Opinion the World has of it, how imprudent then is it for any one that finds a Benefit thereby, by open Clamours to be<g ref="char:EOLhyphen"/>reave it of that Reputation, that can only ſupport it for his own Advantage; every Complaint that reaches <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Ears of the Vulgar, being as a Dagger to ſtab its Reputation to the very heart. Beſides, open Clamours can never repair ſuch Parties damage (if any he has ſuſtained) but on the contrary, may prove hurtful to himſelf, by diſcouraging others from ſending by this Conveyance, and conſequently by depriving it of a Support, even ruin the Undertaking, which otherwiſe would dai<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more and more improve, to the unſpeakable benefit and advantage of himſelf, as well as of the Publick.<note place="margin">☞ <hi>Note,</hi> All Perſons, in their Superſcriptions of <hi>Letters,</hi> are deſired to write the Chriſtian Names, Sign, Trade or Pro<g ref="char:EOLhyphen"/>feſſion (if any) and in what part of the Street, or near what noted Lane, Court, Alley, Church, Tavern; <hi>&amp;c.</hi> Alſo with heed and care to write the Name of the Perſon and Street very legible, and the Street to be written by it ſelf at the bottom; and if the Party be a Lodger, to ſay, <hi>Lodging at ſuch a Houſe;</hi> if a Servant, to ſay, <hi>at his or her Maſters Houſe,</hi> to denote whether Lodger or Servant. All which is ſo eſſentially neceſſary for the more ready Delivery of <hi>Letters,</hi> that the doing thereof can never ſufficiently be inculcated. 'Tis therefore expe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed, that all Perſons, as well for their own, as the <hi>Undertakers</hi> conveniency, would write the Directions ſo plain and intelligible, as eaſily to be read, and readily delivered.</note>
+               </p>
+               <list>
+                  <head>There ſhall now be hinted ſome of the Conveniencies of this <g ref="char:V">Ʋ</g>ſeful <g ref="char:V">Ʋ</g>ndertaking of the <hi>PENNY-POST.</hi>
+                  </head>
+                  <item>All Gentlemen, Countrey-Chapmen, <hi>&amp;c.</hi> can preſently give Notice of their Ar<g ref="char:EOLhyphen"/>rival to Town.</item>
+                  <item>Shop-keepers and Tradeſ-men ſend for what they want to their Work-men.</item>
+                  <item>Much time ſaved in ſollicitation for Money.</item>
+                  <item>Appointments made among Men of Buſineſs.</item>
+                  <item>Bills diſperſt for Publication of any Coneern.</item>
+                  <item>Summons or Tickets conveyed to all Parts.</item>
+                  <item>Brewers Entries ſafely ſent to the Exciſe-Office.</item>
+                  <item>Lawyers and Clients mutually correſpond.</item>
+                  <item>Patients ſend to Doctors, Apothecaries, <hi>&amp;c.</hi> for what they want.</item>
+                  <item>And the poor Priſoners can now addreſs to their Creditors or Benefactors for <hi>One Penny,</hi> and ſave five <hi>Pence</hi> (out of the former Charge to a Porter) which will pay for a good Dinner.</item>
+               </list>
+               <p>Many other Conveniencies are to be had by this Conveyance, which (tho for brevities ſake are omitted) the Ingenious will find out; whereby may be undeniably demonſtrated, the univerſal Utility of this <hi>Invention,</hi> and the unreaſonableneſs and invalidity of all the Objections hitherto alledged againſt it.</p>
+               <p>It is become a general wonder among the moſt Intelligent and Men of Buſineſs, That Mr. <hi>Dockwra</hi> (or any other) ſhould be thus ſued for Carrying and Re-carrying Letters about <hi>London</hi> and other Neighbouring Places, when to this day the <hi>General Poſt</hi> has not ſettled any thing of that nature for the conveniency of the Inhabitants in any one place round this City nearer than a Stage of 9 or 10 mile; and yet the Informant is for Penalties of 5 <hi>l.</hi> a Letter and 100 <hi>l.</hi> a Week for doing that good to the Publick which the <hi>General Poſt Office</hi> never did. And by this Invention has ſo added to the Income of the <hi>Poſt Office,</hi> that it was never before ſo high as ſince the <hi>Penny-Poſt</hi> was ſet up; that Revenue being now riſen from 21500 <hi>l.</hi> to above 50000 <hi>l. per A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>num,</hi> though the poor <hi>Undertakers</hi> of the <hi>Penny-Poſt</hi> have loſt above 1000 <hi>l. per Annum</hi> out of purſe to ſerve the Pub<g ref="char:EOLhyphen"/>lick. But they hope they ſhall be at quiet in the poſſeſſion of their own Invention, and that they may be countenanced to carry on the Practice of the <hi>Penny-Poſt</hi> whereby they may be enabled to reap the Fruits of their Labour (and great Charge) as a Reward for ſetting up an <hi>Undertaking</hi> Manifeſted to be ſo uſeful to all Men, by full Experience,</p>
+               <p>
+                  <hi>The True Touch-ſtone of all Deſigns.</hi>
+                  <note place="margin">☞ <hi>Note,</hi> Upon any Delay or Miſcarriage of a <hi>Letter,</hi> if after ſuch ſtrict inquiry made as aforeſaid, there be juſt ground to charge it on the <hi>Penny-Poſt;</hi> 'tis deſired that the Party concerned would (by a Line or two) give the <hi>Undertakers</hi> an account how the <hi>Letter</hi> was directed, who ſent it, at what <hi>Penny-poſt-houſe</hi> it was left, alſo what day and hour if poſſible, and the <hi>Underta<g ref="char:EOLhyphen"/>kers,</hi> after a ſtrict inquiry into the matter of fact, will return a ſatisfactory Anſwer to the ſaid Complaint. And whoſoever has occaſion, either on this or any other account, to write to the <hi>Undertakers;</hi> if left at any <hi>Penny-Poſt-Houſe,</hi> it will go free and come ſafe to hand if thus directed,</note>
+               </p>
+               <p>To Mr. <hi>William Dockwra</hi> and the reſt of the <hi>
+                     <g ref="char:V">Ʋ</g>ndertakers,</hi> at the <hi>Penny-Poſt-Houſe</hi> in <hi>Lime-ſtreet,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (a prejudice) do de<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in <hi>Letters</hi> long in hand, and then put them in<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <pb facs="tcp:170884:3"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
